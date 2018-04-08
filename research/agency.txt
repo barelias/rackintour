@@ -1,0 +1,2 @@
+"agency_id","agency_name","agency_url","agency_timezone","agency_lang","agency_phone"
+"Emtu","Empresa Metropolitana de Transportes Urbanos de São Paulo S.A.","http://www.emtu.sp.gov.br/EMTU/home.htm","America/Sao_Paulo","PT","0800 724 05 55"
